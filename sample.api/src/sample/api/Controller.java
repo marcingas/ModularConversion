@@ -4,6 +4,7 @@ import sample.core.UtilityClass;
 import sample.entity.EntityOne;
 import sample.service.ServiceOne;
 
+
 public class Controller {
     ServiceOne s = new ServiceOne("Controller has a service");
     EntityOne e = new EntityOne("Controller has an entity");
@@ -16,6 +17,8 @@ public class Controller {
         queryModuleData(UtilityClass.class);
         queryModuleData(Controller.class);
         queryModuleData(java.util.logging.Logger.class);
+        queryModuleData(EntityOne.class);
+        queryModuleData(ServiceOne.class);
     }
 
     private static void queryModuleData(Class cls) {
