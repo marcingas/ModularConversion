@@ -7,8 +7,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="sample.core" />
-    <orderEntry type="module" module-name="sample.entity" />
-    <orderEntry type="module" module-name="sample.service" />
   </component>
 </module>

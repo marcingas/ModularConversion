@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ModularConversion.iml" filepath="$PROJECT_DIR$/ModularConversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample.api/sample.api.iml" filepath="$PROJECT_DIR$/sample.api/sample.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample.core/sample.core.iml" filepath="$PROJECT_DIR$/sample.core/sample.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample.entity/sample.entity.iml" filepath="$PROJECT_DIR$/sample.entity/sample.entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample.service/sample.service.iml" filepath="$PROJECT_DIR$/sample.service/sample.service.iml" />
     </modules>
   </component>
 </project>

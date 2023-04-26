@@ -18,7 +18,7 @@ public class Controller {
         queryModuleData(Controller.class);
         queryModuleData(java.util.logging.Logger.class);
         queryModuleData(EntityOne.class);
-        queryModuleData(ServiceOne.class);
+        queryModuleData(ServiceOne.class );
     }
 
     private static void queryModuleData(Class cls) {
